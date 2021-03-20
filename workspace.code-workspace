@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "..\\gogogo"
+        },
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "git.ignoreLimitWarning": true
+    }
+}
